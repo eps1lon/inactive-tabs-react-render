@@ -1,0 +1,27 @@
+{
+  "name": "inactive-tabs-react-render",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "file:react-0.0.0-87eaa90ef.tgz",
+    "react-dom": "file:react-dom-0.0.0-87eaa90ef.tgz",
+    "react-scripts": "3.0.1"
+  },
+  "resolutions": {
+    "scheduler": "file:scheduler-0.0.0-87eaa90ef.tgz"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
