@@ -5,12 +5,9 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "file:react-0.0.0-87eaa90ef.tgz",
-    "react-dom": "file:react-dom-0.0.0-87eaa90ef.tgz",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-scripts": "3.0.1"
-  },
-  "resolutions": {
-    "scheduler": "file:scheduler-0.0.0-87eaa90ef.tgz"
   },
   "scripts": {
     "start": "react-scripts start",
